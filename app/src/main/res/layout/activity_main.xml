@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns : android=lfhttp : / /schemas . android. com/apk/res / android"
+    android: orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffeecc"
+    >
+<TextView
+android:layout_width="fill_parent"
+android: layout_height=f,wrap_content"
+    android:layout_margin="lOpx"
+    android: textS i ze=fl 20 sp”
+    android: textStyle=Mnormal,f
+    android:text="Aceleración"
+    android: textColor=,f #000000”
+    />
+<View
+android:background=M#000000"
+    android:layout_width=" fill_parent"
+    android:layout_height="lspM>
+    </View>
+<TextView
+android: layout_width="fill_parent"
+android: layout_height = flwrap_contentfl
+android:layout_marginLeft="lOpx"
+android:textSize="20sp"
+android:textStyle="italic"
+android:text="a_x"
+android:textColor="#000000"
+    />
+<TextView
+android:id="@+id/textViewAX"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="1Opx"
+android:textSize="20sp"
+android:textStyle="bold"
+android:text="Aceleracion_X"
+android:textColor="#000000"
+    />
+<View
+android:background="#000000"
+android:layout_width="fill_parent"
+android:layout_height="lsp">
+</View>
+<TextView
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="1Opx"
+android:textSize="20sp"
+android:textStyle="italic"
+android:text="a_y"
+android:textColor="#000000"
+    />
+<TextView
+android:id="@+id/textViewAY"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout marginLeft="1Opx"
+android: textSize=ff 2 0sp"
+    android: textStyle="bold"
+    android: text="Aceleracion_Yf'
+    android:textColor="#000000"
+    />
+<View
+android:background="#000000"
+android:layout_width="fill_parent"
+android:layout_height="lsp">
+</View>
+    CTextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content
+    android:layout_marginLeft="lOpx"
+    android:textSize="20sp"
+    android:textStyle="italic"
+    android:text="a_z"
+    android:textColor="#000000"
+    />
+    CTextView
+    android:id="@+id/textViewAZ"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content
+    android:layout_marginLeft="lOpx"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android: text="Aceleracion_Z11
+    android:textColor="#000000"
+    />
+    cview
+    android:background="#000000"
+    android:layout_width="fill_parent"
+    android:layout_height="lsp">
+    c/View>
+    CTextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content
+    android:layout_marginLeft="lOpx"
+    android:textSize="20sp"
+    android:textStyle="italic"
+    android:text="a módulo"
+    android:textColor="#000000"
+    />
+    CTextView
+    android:id="@+id/textViewA"
+    android: layout_width="fill_parent,f
+    android: layout_height="wrap_content"
+    android:layout_marginLeft="lOpx"
+    android: textSize="20sp"
+    android:textStyle="bold"
+    android: text="Aceleracion"
+    android:textColor="#000000"
+    />
+<View
+android:background="#000000"
+android:layout_width=M fill_parent"
+android:layout_height="lsp">
+</View>
+<TextView
+android:layout_width="fill_parent"
+android:layout_height=Mwrap_content"
+    android:layout_marginLeft=n10px"
+android:textSize=M20sp”
+android:textStyle="italic”
+    android: text=f,a_máxima"
+    android:textColor="#000000"
+    />
+<TextView
+android:id="@+id/textViewAmax"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="lOpx"
+android:textSize="20sp"
+android:textStyle="bold"
+android:text="Aceleracion_max"
+android:textColor="#000000"
+    />
+<View
+android:background="#000000"
+android:layout_width="fill_parent"
+android:layout_height="lsp">
+</View>
+<TextView
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout marginLeft="10px"
+android:textSize="20sp"
+android :textStyle="italic"
+android:text="Gravedad standard"
+android:textColor="#000000"
+    />
+<TextView
+android:id="@+id/textViewG"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="10px"
+android:textSize="20sp"
+android:textStyle="bold"
+android:text="Gravedad_estándar"
+android:textColor="#000000”
+/>
+</LinearLayout>
